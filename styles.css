@@ -5,3 +5,8 @@ body {
   background: #f6f8fa;
 }
 
+/* Dark theme */
+[data-theme="dark"] {
+  background: #121212;
+  color: #f5f5f5;
+}
